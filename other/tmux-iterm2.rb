@@ -1,8 +1,8 @@
 require 'formula'
 
 class TmuxIterm2 < Formula
-  url 'http://iterm2.googlecode.com/files/tmux-for-iTerm2-20120203.tar.gz'
-  md5 '59305a26bdd0245054fe719e6b2a960e'
+  url 'https://github.com/gnachman/tmux2/zipball/mountainlion'
+  md5 'c681e412b14eb28f28d22d9093ed6494'
   homepage 'http://github.com/gnachman/tmux2'
 
   depends_on 'libevent'
